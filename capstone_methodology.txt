@@ -1,0 +1,1 @@
+In order to perform the analysis of whether to build a new bakery in Manhattan vs Toronto, I will create dataframes of these neighborhoods that include Foursquare API data included showing the existing number of bakeries in various distances from neighoborhoods.
