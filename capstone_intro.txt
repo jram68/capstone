@@ -1,0 +1,4 @@
+
+Introduction/Business Problem:
+John is the COO American Bakery and is tasked with analyzing locations for the next bakery to be built. John must report his findings to the Board of Directors, therefore the Board is the audience and stakeholder of this data science report. John has narrowed down his options to Manhattan and Toronto. John must analayze bakery market saturation in these locations using Foursquare API and its data in order to determine if a new bakery will be a winning or losing venture.
+
